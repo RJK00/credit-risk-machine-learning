@@ -18,4 +18,4 @@ Logistic regression will out-perform the Random Forest model because the dataset
 Increasing the number of estimators(trees) from 100 to 1000 in the random forest classifier model yielded slightly higher nominal scores for accuracy *(+0.015%)*: *0.99153* and *0.99169* respectively. 
 
 ### Further analysis:
-A two-sample pairwise t-test could be performed to quantify the statistical significance of the differences in performance metrics between the two models.
+A two-sample pairwise t-test could be performed to quantify the statistical significance of the differences in performance metric between the two models.
